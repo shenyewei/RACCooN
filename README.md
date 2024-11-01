@@ -113,9 +113,9 @@ we provide jupynote [scripts](https://github.com/jaehong31/RACCooN/blob/main/p2v
 
 ### TODO 
 - [x] Release ckpts and VPLM dataset
-- [ ] Video Feature Extraction Examples
+- [x] Video Feature Extraction Examples
 - [x] V2P and P2V training
-- [ ] Incorporate Grounding Modules
+- [x] Incorporate Grounding Modules
 
 
 # Acknowledgments
