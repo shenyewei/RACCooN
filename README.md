@@ -28,8 +28,6 @@ conda create -n RACCooN python=3.10.13
 conda activate RACCooN
 ```
 
-2. build from source
-
 ```bash
 pip install -r requirements.txt
 ```
